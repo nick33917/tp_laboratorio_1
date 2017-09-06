@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504740096 source:c:\users\bruno\desktop\tp terminado!!!\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504740130 source:c:\users\bruno\desktop\tp terminado!!!\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504740564 c:\users\bruno\desktop\tp terminado!!!\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
